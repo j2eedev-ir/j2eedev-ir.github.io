@@ -1,15 +1,5 @@
-# Learning Java Prgramming Language in Qom
+<div dir="rtl">
 
+#آموزش برنامه نویسی به زبان جاوا در قم
 
-##J2SE
-
-* Beginer
-* Intermediat
-* Advanced
-
-##J2EE
-
-* Beginer
-* Intermediat
-* Advanced
-
+</div>
