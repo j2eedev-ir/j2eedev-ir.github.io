@@ -1,5 +1,1 @@
-<div dir="rtl">
-
-#آموزش برنامه نویسی به زبان جاوا در قم
-
-</div>
+### RTL Jekyll Blog Build on top of Voyager <https://github.com/redVi/voyager>

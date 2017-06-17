@@ -1,0 +1,14 @@
+---
+bg: "Backgrounds_Line_of_computer_code_background_099068_.jpg"
+layout: default
+crawlertitle: "مدونة شوقي"
+title: "مدونة شوقي"
+summary: "الرئيسية"
+---
+
+{% for post in site.posts limit: 500 %}
+  <article class="index-page">
+    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+    {{ post.excerpt }}
+  </article>
+{% endfor %}
